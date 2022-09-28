@@ -1,5 +1,15 @@
-### Hi there 👋
+### Hola 👋
 
+Soy Luis un ingeniero en proceso, bastante versátil para afrontar las diferentes problemáticas que surgen en el desarrollo de software, con muy buena capacidad para enfrentar nuevos retos y tecnologías, con una gran disposición para el aprendizaje e investigación de nuevas tecnologías y una gran capacidad para adaptarse al trabajo en equipo.
+
+### 🚀 Mis proyectos
+* [Calculadora de interés compuesto](https://github.com/lfmoreno304/calculadora-de-interes-compuesta)
+* [Buscador de imagenes](https://github.com/lfmoreno304/Buscador-de-Imagenes)
+
+### ⚙️ Mis tecnologías
+| Lenguajes de programación || Frontend || Backend |
+| ----------------------- || ------ || ----- |
+||||||
 <!--
 **lfmoreno304/lfmoreno304** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
